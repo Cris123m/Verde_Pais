@@ -1,0 +1,16 @@
+{
+"companyName": "Urco Net",
+"productName": "Verde Pais",
+"productVersion": "0.1",
+"dataUrl": "DEMO WEB.data.unityweb",
+"wasmCodeUrl": "DEMO WEB.wasm.code.unityweb",
+"wasmFrameworkUrl": "DEMO WEB.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1"
+}
